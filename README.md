@@ -1,10 +1,9 @@
-<div align="center">
-  <img height="150" src="https://www.google.com/search?sca_esv=cc7df08423f9a468&rlz=1C1GCEU_enIN1092IN1092&q=github+animated+coding+gif+girl&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7dsn0TD44p2051LbyCfsr2lrlDmN48au0NExPcEthnlFFOWU3qZ76qpTH69-w4leIovmm5q8CZiWYBghZ6DV1RffRUBVXo5U1J017qBwvEgwgjUwkEGI9x4FUwRxWqsmeUi9ZRuhsTxCUKADPMnHqF-m7qZcA&udm=2&sa=X&ved=2ahUKEwi_p6jiuaaJAxXy9zgGHXUDJ5MQxKsJegQICBAB&ictx=0&biw=1280&bih=593&dpr=1.5#vhid=Ayf1SYgO6GGXAM&vssid=mosaic"  />
-</div>
 
 ###
 
-<h1 align="center">Welcome to Somhrita's Github Profile! 👋</h1>
+<h1 align="center">Hi 👋, I'm Somhrita Ghosh </h1>
+<h3 align="center">Software Test Engineer | Automation Enthusiast | Lifelong Learner</h3>
+
 
 ###
 
@@ -12,7 +11,19 @@
 
 ###
 
-<p align="left">I'm Somhrita Ghosh from West Bengal,India<br><br>- 🔭 I’m working as a Software Test Engineer <br>- 📚 I'm currently learning Playwright using Javascript<br>- ⚡ I’m looking to collaborate on Test Automation Frameworks Development (Web, Mobile and API)</p>
+## 👩‍💻 About Me
+
+I am a **Software Test Engineer** from **West Bengal, India**, driven by a strong commitment to delivering reliable, high-quality software through structured testing and automation.
+
+- 🔍 Hands-on experience in **Manual & Automation Testing**
+- 🧪 Strong knowledge of **SDLC, STLC, and the defect life cycle**
+- ⚙️ Experience with **Web, Mobile, and API Automation Frameworks**
+- 📱 Proficient in **Mobile Application Testing** (functional, regression, usability)
+- 🗄️ Skilled in **SQL-based database testing and backend data validation**
+- 🔌 Experienced in **API testing using Postman**
+- 🤝 Open to collaborating on **scalable automation frameworks and quality initiatives**
+- 🚀 Focused on improving **test coverage, system reliability, and CI/CD efficiency**
+
 
 ###
 
