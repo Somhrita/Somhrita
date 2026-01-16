@@ -11,7 +11,6 @@
 
 ###
 
-## 👩‍💻 About Me
 
 I am a **Software Test Engineer** from **West Bengal, India**, driven by a strong commitment to delivering reliable, high-quality software through structured testing and automation.
 
@@ -55,16 +54,16 @@ I am a **Software Test Engineer** from **West Bengal, India**, driven by a stron
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> <img width="12" /></a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> <img width="12" /></a>
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> <img width="12" /></a> </p>
-###
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🔥 GitHub Stats
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Somhrita&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somhrita&theme=tokyonight&hide_border=true" />
+</p>
 ###
 
 Thanks for visiting my GitHub profile! 😊
